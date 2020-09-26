@@ -1,5 +1,7 @@
 # SIT744-PML - Some Work on Deep learning
 
+<img src="https://badges.pufler.dev/visits/oreopot/Deep-Learning-Practice">
+
 
 ### To execute the code
 
